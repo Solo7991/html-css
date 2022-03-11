@@ -1,0 +1,10 @@
+#nav {
+    display: flex;
+    justify-content: space-around;
+}
+#nav > a {
+    text-decoration: none;
+    font: 1.2em Arial, sans-serif;
+    color: rgb(192, 24, 108);
+    display: block;
+}
